@@ -1,0 +1,102 @@
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\ReadQRcode.exe.config
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.csprojResolveAssemblyReference.cache
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.Form1.resources
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.Properties.Resources.resources
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.csproj.GenerateResource.Cache
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\ReadQRcode.exe
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\ReadQRcode.pdb
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Controls.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Fuzzy.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Genetic.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Imaging.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.MachineLearning.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Math.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Neuro.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.Lego.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.Surveyor.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.TeRK.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.Kinect.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.VFW.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.Ximea.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Vision.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\Database.dll
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Controls.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Fuzzy.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Genetic.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Imaging.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.MachineLearning.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Math.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Neuro.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.Kinect.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.VFW.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.Ximea.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\AForge.Vision.xml
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\bin\Debug\Database.pdb
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.exe
+c:\users\ball\documents\visual studio 2013\Projects\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.pdb
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\ReadQRcode.exe.config
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.exe
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.pdb
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\ReadQRcode.exe
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\ReadQRcode.pdb
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Controls.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Fuzzy.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Genetic.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Imaging.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.MachineLearning.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Math.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Neuro.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.VFW.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\AForge.Vision.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\Database.pdb
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\es\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.csprojResolveAssemblyReference.cache
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.Form1.resources
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.Properties.Resources.resources
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.csproj.GenerateResource.Cache
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.NombreInscripto.resources
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\MySql.Data.dll
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.RegistrarAsistencia.resources
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.FormInscripcion.resources
+C:\Users\guill\Desktop\ReadQRcode\ReadQRcode\obj\Debug\ReadQRcode.TotalInscriptos.resources
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\bin\Debug\ReadQRcode.exe.config
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.exe
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.pdb
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.Form1.resources
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.FormInscripcion.resources
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.NombreInscripto.resources
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.RegistrarAsistencia.resources
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.TotalInscriptos.resources
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\obj\Debug\ReadQRcode.csproj.GenerateResource.Cache
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\bin\Debug\ReadQRcode.exe
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\bin\Debug\ReadQRcode.pdb
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\guill\Desktop\Nueva carpeta\ReadQRcode\bin\Debug\es\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
